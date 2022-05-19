@@ -1,0 +1,19 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex-grow: 1;
+}
+
+h3 {
+  font-family: 'Indie Flower', cursive;
+  font-weight: 900;
+  text-shadow: 10px;
+}
+
+.object-cover {
+  object-fit: cover;
+}
